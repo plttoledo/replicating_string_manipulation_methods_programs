@@ -5,22 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b9c785-b365-4006-82c4-fc97b842fb09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/replicating_string_manipulation_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_capitalize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_center.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_endswith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_isupper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_lstrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_removeprefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_swapcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_title.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/prog_9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ut2Y1zPEfLctedWAlM2S9Kq3db" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,8 +52,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.prog_1.executor": "Run",
+    "Python.prog_10.executor": "Run",
+    "Python.prog_2.executor": "Run",
+    "Python.prog_3.executor": "Run",
+    "Python.prog_4.executor": "Run",
+    "Python.prog_5.executor": "Run",
+    "Python.prog_6.executor": "Run",
+    "Python.prog_7.executor": "Run",
+    "Python.prog_8.executor": "Run",
+    "Python.prog_9.executor": "Run",
+    "Python.same_functionality_lower.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>

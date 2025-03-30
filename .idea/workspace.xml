@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b9c785-b365-4006-82c4-fc97b842fb09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/prog_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_capitalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_capitalize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_center.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_endswith.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_endswith.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_isupper.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_isupper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_ljust.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_ljust.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_lower.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_lower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_lstrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_lstrip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_removeprefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_removeprefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_swapcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_swapcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replicating_string_manipulation_methods/same_functionality_title.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_six/same_functionality_title.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

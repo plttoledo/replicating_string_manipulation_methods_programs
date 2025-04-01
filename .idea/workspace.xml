@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b9c785-b365-4006-82c4-fc97b842fb09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch_seven/prog_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_islower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_removesuffix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_rstrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_startswith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_upper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/batch_seven/same_function_zfill.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_seven/same_function_rindex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_seven/same_function_rjust.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_seven/prog_9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,7 @@
     &quot;Python.prog_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.prog_8.executor&quot;: &quot;Run&quot;,
     &quot;Python.prog_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.same_functionality_isupper.executor&quot;: &quot;Run&quot;,
     &quot;Python.same_functionality_lower.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
